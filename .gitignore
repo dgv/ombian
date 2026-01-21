@@ -1,0 +1,7 @@
+*
+!.gitignore
+!dconf.bkp
+!gtk-3.0
+!*.png
+!mpv
+!dconf_bkp.sh

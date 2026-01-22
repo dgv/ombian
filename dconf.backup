@@ -146,7 +146,7 @@ clock-format='24h'
 color-scheme='prefer-light'
 cursor-theme='Breeze_Light'
 gtk-theme='Arc'
-icon-theme='Papirus'
+icon-theme='Papirus-Dark'
 
 [org/gnome/desktop/peripherals/keyboard]
 numlock-state=true

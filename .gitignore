@@ -4,4 +4,5 @@
 !gtk-3.0
 !*.png
 !mpv
+!ghostty
 !dconf_bkp.sh

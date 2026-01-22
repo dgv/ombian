@@ -5,4 +5,5 @@
 !*.png
 !mpv
 !ghostty
+!mimeapps.list
 !dconf_bkp.sh

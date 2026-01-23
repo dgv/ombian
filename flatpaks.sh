@@ -14,5 +14,5 @@ EOF
 
 # install each one
 while read pkg; do
-  flatpak install $pkg -y
+  sudo flatpak install $pkg -y
 done  < /tmp/flatpaks

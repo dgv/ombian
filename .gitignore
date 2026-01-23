@@ -7,3 +7,5 @@
 !ghostty
 !mimeapps.list
 !dconf_bkp.sh
+!rofi
+!mate_dock_applet.conf
